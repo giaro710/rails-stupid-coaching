@@ -1,0 +1,29 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  background-color: #dae5ea;
+}
+
+li {
+  list-style-type: none;
+  font-size: 24px;
+}
+
+#all-page {
+  margin: 24px 860px;
+}
+
+#btn {
+  padding: 8px;
+  color: white;
+  background-color: #aac1d3;
+  border-radius: 8px;
+  box-shadow: 2px 2px #17120f;
+}
+
+#form-space {
+  padding: 8px;
+  border-radius: 8px;
+  box-shadow: 2px 2px #17120f;
+}
